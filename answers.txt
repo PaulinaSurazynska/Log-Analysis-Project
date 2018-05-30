@@ -1,0 +1,21 @@
+Question 1. What are the most popular three articles of all time?
+
+
+Candidate is jerk, alleges rival with the result of 338647
+Bears love berries, alleges bear with the result of 253801
+Bad things gone, say good people with the result of 170098
+
+
+Question 2. Who are the most popular article authors of all time?
+
+
+Ursula La Multa with the result of 507594
+Rudolf von Treppenwitz with the result of 423457
+Anonymous Contributor with the result of 170098
+Markoff Chaney with the result of 84557
+
+
+Question 3. On which days did more than 1% of requests lead to errors?
+
+
+2016-07-17 with the result of 2.26
